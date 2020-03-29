@@ -1,3 +1,1 @@
-Привет!
-Это множество Мандельброта или другими словами просто фрактал. Фрактал - это такая фигура, меньшие части которой подобны к самой фигуре при увеличении. Множество Мандельброта это только один из видов фракталов, их очень много и все они очень красивые.
-Данный фрактал я написал практикуя шейдерное программирование. Это был мой первый опыт.
+Hello! This is Mandelbrot Set, or in other words just a fractal. A fractal is such a figure, the smaller parts of which are similar to the figure itself when magnified. Mandelbrot Set is just one of the types of fractals, there are a lot of them and they are all very beautiful. This project was written using the Unity Engine. Unity provides several different types of shaders for various tasks that can be programmed. I created this fractal practicing shader programming. All the code regarding the fractal is in the shader script. This was my first experience with shaders!
